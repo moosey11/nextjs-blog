@@ -1,4 +1,5 @@
-import App from "./_app";
+import App from "../pages/_app";
+
 
 export default function index() {
   return (

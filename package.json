@@ -1,7 +1,7 @@
 {
-  "homepage": "https://moosey11.github.io/nextjs-blog",
+  "homepage": "https://github.com/moosey11/nextjs-blog",
   "name": "nextjs-blog",
-  "private": true,
+  "private": false,
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
